@@ -1,6 +1,5 @@
-#hola 👋
 
-- 👨‍💻 Working on **Computer Vision**, **Embedded Systems**, and **AI/ML**
+- 👨‍💻 I Work on **Computer Vision**, **Embedded Systems**, and **AI/ML**
     
 - 🔧 Focused on creating practical and efficient solutions
   
