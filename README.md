@@ -1,5 +1,5 @@
 
-- 👨‍💻 I Work on **Computer Vision**, **Embedded Systems**, and **AI/ML**
+- 👨‍💻 I Work on  **Embedded Systems**, and **CV/ML**
     
 - 🔧 Focused on creating practical and efficient solutions
   
