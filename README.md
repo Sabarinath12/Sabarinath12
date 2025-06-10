@@ -1,10 +1,4 @@
-
-- 👨‍💻 I Work on  **Embedded Systems**, and **DL/CV**
-    
-- 🔧 Focused on creating practical and efficient solutions
-  
-- 🤖 Interested in integrating hardware with intelligent software  
- <br>
+I Work on  **Embedded Systems**, and **DL/CV**
 
 
 # 💻 Tech Stack:
